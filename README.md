@@ -1,0 +1,2 @@
+# UprobeChecker
+一个用于检测安卓app自身是否被uprobe挂载的示例项目
